@@ -1,6 +1,6 @@
 {
   "name": "PrunePal Dev",
-  "image": "mcr.microsoft.com/devcontainers/typescript-node:0-22-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bullseye",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
       "version": "22"
