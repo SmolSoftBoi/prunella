@@ -1,4 +1,4 @@
-# prunella
+# Prunella
 
 Developer environment for PrunePal.
 
